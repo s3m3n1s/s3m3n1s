@@ -2,7 +2,7 @@
   
 
   <div id="header" align="center">
-  <img src="https://static.tildacdn.com/tild3165-6463-4563-a333-643137616537/cat-computer-veryfas.gif" width="100"/>
+  <img src="https://github.com/s3m3n1s/s3m3n1s/blob/main/cat-kiss.gif" width="100"/>
   </div>
 
   ---    
